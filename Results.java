@@ -39,5 +39,7 @@ public class Student {
      return;
 }
 
+void myTest();
+
 int countAll() { return 0; }
 }
